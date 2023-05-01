@@ -3,7 +3,7 @@
 // Purpose:     White Box - test suite
 //
 // $NoKeywords: $ivs_project_1 $white_box_tests.cpp
-// $Author:     JMENO PRIJMENI <xlogin00@stud.fit.vutbr.cz>
+// $Author:     Richard Huska <xhuska03@stud.fit.vutbr.cz>
 // $Date:       $2023-03-07
 //============================================================================//
 /**
